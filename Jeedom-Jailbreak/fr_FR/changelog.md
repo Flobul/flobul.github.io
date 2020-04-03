@@ -2,6 +2,10 @@
 
 Liste des versions du plugin Jailbreak.
 
+### Version 1.04 (03/03/2020)
+* Gestion des paquets de dépendances
+* Corrections mineures
+
 ### Version 1.03 (26/02/2020)
 * Masquage d'îcone si connexion KO
 * Corrections mineures
